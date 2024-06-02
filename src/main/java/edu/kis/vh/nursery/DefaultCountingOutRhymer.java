@@ -1,7 +1,9 @@
 package edu.kis.vh.nursery;
 
 /**
- *
+ * The DefaultCountingOutRhymer class represents a simple stack data structure
+ * that allows counting in and counting out integers, as well as checking the current state
+ * of the stack (whether it is empty or full).
  */
 public class DefaultCountingOutRhymer {
 
